@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">EinzelbeispielLafleur</string>
+    <string name="gib_deine_matrikelnummer_ein">Gib deine Matrikelnummer ein</string>
+    <string name="connect_to_server">Connect to Server</string>
+    <string name="do_calculation">Do Calculation</string>
+    <string name="matrikelnummer">Matrikelnummer</string>
 </resources>
